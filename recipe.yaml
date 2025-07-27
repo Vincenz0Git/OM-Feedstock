@@ -1,0 +1,8 @@
+package:
+  name: OpenModelica
+  version: 1.25.1
+
+source:
+  git: https://github.com/Vincenz0Git/OpenModelica.git
+  branch: patch/osx_arm64
+  use_gitignore: false
