@@ -5,4 +5,3 @@ package:
 source:
   git: https://github.com/Vincenz0Git/OpenModelica.git
   branch: patch/osx_arm64
-  use_gitignore: false
